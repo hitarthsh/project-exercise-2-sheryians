@@ -8,4 +8,4 @@
 
 ### Live Demo
 
-You can see a live demo ()
+You can see a live demo (https://hitarthsh.github.io/project-exercise-2-sheryians/)
